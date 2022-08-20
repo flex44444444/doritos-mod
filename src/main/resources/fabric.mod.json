@@ -4,9 +4,10 @@
   "version": "${version}",
 
   "name": "Doritos",
-  "description": "This mod adds doritos. And dorito chickens. And dorito cookers. And dorito plants.",
+  "description": "Dorito mod adds:\n- dorito\n- cooked dorito\n- dorito... chicken?\n- dorito oven\n- dorito casserole with chicken\n- dorito weed (big cheesy smoke)",
   "authors": [
-    "flex44444444"
+    "flex44444444",
+    "SkellyBeast"
   ],
   "contact": {
     "homepage": "https://flex44444444.com/doritomod",
