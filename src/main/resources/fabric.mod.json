@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "doritos",
+  "version": "${version}",
+
+  "name": "Doritos",
+  "description": "This mod adds doritos. And dorito chickens. And dorito cookers. And dorito plants.",
+  "authors": [
+    "flex44444444"
+  ],
+  "contact": {
+    "homepage": "https://flex44444444.com/doritomod",
+    "sources": ""
+  },
+
+  "license": "gpl-2.0",
+  "icon": "assets/doritos/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.flexsealkittee.doritos.DoritosMod"
+    ]
+  },
+  "mixins": [
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.9",
+    "fabric": "*",
+    "minecraft": "~1.19.2",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
