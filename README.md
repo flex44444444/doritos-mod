@@ -1,8 +1,8 @@
-# Fabric Example Mod
+# Doritos Mod
 
-## Setup
+## Description
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+doritios and shit in Minecraft
 
 ## License
 
